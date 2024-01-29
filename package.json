@@ -1,0 +1,13 @@
+{
+    "id": "tutanota",
+    "name": "Tutanota",
+    "version": "0.0.1",
+    "description": "Tutanota",
+    "main": "index.js",
+    "author": "Carson Ferreira <carson@carsonferreira.com>",
+    "license": "MIT",
+    "repository": "https://github.com/wgetgoose/ferdium-tutanota",
+    "config": {
+      "serviceURL": "https://app.tuta.com"
+    }
+  }
